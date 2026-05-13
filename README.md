@@ -94,7 +94,7 @@ AI chatbot platform built using **Flask + Ollama** with persistent memory, sessi
 ### 🛠 Stack
 `Flask` `Ollama` `SQLite` `JavaScript`
 
-🔗 Repo: https://github.com/YOUR_REPO_LINK
+🔗 Repo: https://github.com/shrutip04/FullStack-LLM-Chat-System
 
 ---
 
@@ -111,7 +111,7 @@ AI-powered commute assistant designed for smarter and safer travel experiences.
 ### 🛠 Stack
 `Python` `Frontend Dashboard` `AI APIs`
 
-🔗 Repo: https://github.com/YOUR_REPO_LINK
+🔗 Repo: https://github.com/shrutip04/commuteiq
 
 ---
 
