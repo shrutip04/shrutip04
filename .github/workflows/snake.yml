@@ -7,21 +7,21 @@ on:
   workflow_dispatch:
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
 
     steps:
-      - uses: actions/checkout@v3
-
-      - uses: Platane/snk@v3
+      - name: Generate snake game
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: shrutip04
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Push Snake Animation
-        uses: crazy-max/ghaction-github-pages@v3
+      - name: Push snake animation
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
