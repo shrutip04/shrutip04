@@ -1,100 +1,223 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:6C63FF,100:8A2BE2&text=Shruti%20Pawar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Backend%20%7C%20Open%20Source&descAlignY=58" width="100%" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=26&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=Computer+Science+Student;AI+%2B+Backend+Developer;Building+Real-World+Systems;Open+Source+Contributor;Flask+%7C+LLMs+%7C+System+Design" />
+
+<br>
+
+<p align="center">
+  <a href="https://github.com/shrutip04">
+    <img src="https://img.shields.io/github/followers/shrutip04?label=Followers&logo=github&style=for-the-badge&color=8A2BE2" />
+  </a>
+
+  <a href="https://github.com/shrutip04">
+    <img src="https://img.shields.io/github/stars/shrutip04?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=6C63FF" />
+  </a>
+
+  <img src="https://komarev.com/ghpvc/?username=shrutip04&style=for-the-badge&color=blueviolet" />
+
+</p>
+
+</div>
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284068-7b2d7b52-5d87-4b1a-bc1d-6c9bfa2f4c4f.gif" width="100%">
+
 # 💫 About Me
 
-🎓 Computer Science student focused on **AI chatbot systems, backend development, and real-world application design**  
-🤖 I build **working, end-to-end systems** using Flask, local LLMs, and modular backend architecture for hackathons and internship portfolios
+🎓 Computer Science student passionate about building **AI-powered systems, backend architectures, and real-world applications**
 
-I prefer learning by building real systems — not just theory — and continuously improve my projects with better structure, performance, and UX
+🤖 I focus on creating **working end-to-end systems** using Flask, local LLMs, SQLite memory, and scalable backend design instead of only theory-based projects
 
-**Current Focus Areas**
-- AI chatbot platforms (local LLM based)
-- Flask backend systems
-- Chat memory & session handling
-- Backend security concepts (authentication, protection)
-- Hackathon product prototypes
+💡 I enjoy turning ideas into usable products with:
+- clean architecture
+- performance optimization
+- memory systems
+- modern UX
+- production-style thinking
+
+---
+
+# 🛠 Currently Building
+
+- 🤖 **TechBot AI** — Local LLM chatbot with persistent memory & RAG support
+- 🛡️ **AuthCraft** — Attack-aware authentication & backend security system
+- 🚨 **SafeHer** — Intelligent women safety alert platform
+- 🌐 Contributing to open source through **GSSoC 2026**
 
 ---
 
 # 💻 Tech Stack
 
-### 👨‍💻 Core Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+<div align="center">
 
-### ⚙️ Backend & Database
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+## 👨‍💻 Languages
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,go" />
 
-### 🎨 Frontend
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<br><br>
 
-### 🧰 Tools
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+## ⚙️ Backend & Database
+<img src="https://skillicons.dev/icons?i=flask,nodejs,sqlite,mongodb" />
 
----
+<br><br>
 
-# 📊 GitHub Stats
+## 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,react" />
 
-<p align="center">
+<br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=shrutip04&show_icons=true&theme=shadow_blue&hide_border=false" />
+## 🧰 Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrutip04&layout=compact&theme=shadow_blue&hide_border=false" />
-
-</p>
+</div>
 
 ---
 
-# 🚀 Projects
+<img src="https://user-images.githubusercontent.com/74038190/212284068-7b2d7b52-5d87-4b1a-bc1d-6c9bfa2f4c4f.gif" width="100%">
 
-## 🤖 AI Chatbot Platform (Active Development)
-- Full-stack AI chatbot using Flask + local LLM (Ollama)
-- Multi-session chat handling
-- Persistent memory with SQLite
-- Streaming chat-style responses
-- ChatGPT-like UX behavior
-- Context and performance optimization
+# 🚀 Featured Projects
 
-**Focus:** Applied AI + backend state management + real product UX  
-🔗 Repo: https://github.com/<your-repo-link>
+## 🤖 TechBot AI (Active Development)
+
+AI chatbot platform built using **Flask + Ollama** with persistent memory, session handling, and ChatGPT-style UX.
+
+### ⚡ Features
+- Multi-session conversations
+- SQLite persistent memory
+- Streaming responses
+- RAG-ready architecture
+- Voice input/output planning
+- Optimized context management
+
+### 🛠 Stack
+`Flask` `Ollama` `SQLite` `JavaScript`
+
+🔗 Repo: https://github.com/YOUR_REPO_LINK
 
 ---
 
 ## 🚆 CommuteIQ (Hackathon Project)
-- AI-powered commute assistant for smarter and safer travel
-- Route planning, cost comparison, and safety-aware insights
-- Interactive dashboard-based user experience
 
-**Note:** Built as a team project (repository forked for contribution)  
-🔗 Repo: https://github.com/<your-repo-link>
+AI-powered commute assistant designed for smarter and safer travel experiences.
 
----
+### ⚡ Features
+- Route planning
+- Cost comparison
+- Safety-focused recommendations
+- Dashboard-based UI
 
-## 🧠 Authentication & Security (Learning Phase)
-- Exploring secure authentication systems
-- Studying brute-force protection and guardrail logic
-- Designing backend-first security concepts
+### 🛠 Stack
+`Python` `Frontend Dashboard` `AI APIs`
 
-**Status:** Currently learning — implementation coming soon
+🔗 Repo: https://github.com/YOUR_REPO_LINK
 
 ---
 
-## 📫 Connect With Me
+## 🛡️ AuthCraft (Learning + Building)
 
-- 💼 LinkedIn: https://linkedin.com/in/shrutip04
-- 💻 GitHub: https://github.com/shrutip04
-- 📧 Email: shruti.pawar412006@gmail.com
+Backend-focused security project exploring authentication systems and attack-aware protection mechanisms.
+
+### 📚 Exploring
+- JWT authentication
+- Password hashing
+- Brute-force protection
+- Secure backend architecture
+
+🚧 Currently in active learning & implementation phase
 
 ---
 
-## 📌 Note
+<img src="https://user-images.githubusercontent.com/74038190/212284068-7b2d7b52-5d87-4b1a-bc1d-6c9bfa2f4c4f.gif" width="100%">
 
-Some systems are currently under development and will be published after proper testing, cleanup, and documentation 🚀
+# 🌟 Open Source
+
+- 🌐 Contributor at **GirlScript Summer of Code 2026**
+- 🛠 Working on frontend improvements & bug fixes
+- 🤝 Exploring collaborative development workflows
+- 🚀 Learning large-scale project contribution practices
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shrutip04&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrutip04&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=shrutip04&theme=tokyonight&hide_border=true" />
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=shrutip04&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" />
+
+<br><br>
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shrutip04&theme=tokyo-night&hide_border=true)](https://github.com/shrutip04)
+
+</div>
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284068-7b2d7b52-5d87-4b1a-bc1d-6c9bfa2f4c4f.gif" width="100%">
+
+# 🧠 Developer Terminal
+
+```bash
+> whoami
+Shruti Pawar
+
+> interests
+AI Systems | Backend Engineering | Open Source
+
+> currently_learning
+Authentication • System Design • LLM Applications
+
+> philosophy
+Build. Break. Improve. Repeat.
+```
+
+---
+
+# 🕹 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shrutip04/shrutip04/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shrutip04/shrutip04/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/shrutip04/shrutip04/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
+# 📫 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/shrutip04">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/shrutip04">
+  <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="mailto:shruti.pawar412006@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌌 *"Building systems that feel real, useful, and impactful."*
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:6C63FF,100:8A2BE2" width="100%" />
