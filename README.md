@@ -144,9 +144,9 @@ Backend-focused security project exploring authentication systems and attack-awa
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shrutip04&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+<img width="49%" src="[https://github-readme-stats.vercel.app/api?username=shrutip04&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=tru](https://github-readme-stats-sigma-five.vercel.app/api?username=shrutip04&show_icons=true&theme=tokyonight)" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrutip04&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img width="49%" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=shrutip04&layout=compact&theme=tokyonight&hide_border=true&langs_count=8](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shrutip04&layout=compact&theme=tokyonight)" />
 
 <br><br>
 
