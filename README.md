@@ -157,9 +157,7 @@ Backend-focused security project exploring authentication systems and attack-awa
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shrutip04&theme=tokyo-night&hide_border=true" />
 
 <br><br>
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=shrutip04&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&column=7" />
-
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=shrutip04&theme=algolia&row=1&column=7" />
 </div>
 ---
 
@@ -207,6 +205,10 @@ Build. Break. Improve. Repeat.
 
 <a href="mailto:shruti.pawar412006@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://instagram.com/shrutea_04">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
 </div>
