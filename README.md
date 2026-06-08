@@ -144,9 +144,9 @@ Backend-focused security project exploring authentication systems and attack-awa
 
 <div align="center">
 
-<img width="49%" src="[https://github-readme-stats.vercel.app/api?username=shrutip04&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=tru](https://github-readme-stats-sigma-five.vercel.app/api?username=shrutip04&show_icons=true&theme=tokyonight)" />
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=shrutip04&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
 
-<img width="49%" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=shrutip04&layout=compact&theme=tokyonight&hide_border=true&langs_count=8](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shrutip04&layout=compact&theme=tokyonight)" />
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shrutip04&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 <br><br>
 
@@ -161,7 +161,6 @@ Backend-focused security project exploring authentication systems and attack-awa
 <img width="100%" src="https://github-profile-trophy.vercel.app/?username=shrutip04&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&column=7" />
 
 </div>
-
 ---
 
 <img src="https://user-images.githubusercontent.com/74038190/212284068-7b2d7b52-5d87-4b1a-bc1d-6c9bfa2f4c4f.gif" width="100%">
