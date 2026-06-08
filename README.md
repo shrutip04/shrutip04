@@ -40,15 +40,6 @@
 
 ---
 
-# 🛠 Currently Building
-
-- 🤖 **TechBot AI** — Local LLM chatbot with persistent memory & RAG support
-- 🛡️ **AuthCraft** — Attack-aware authentication & backend security system
-- 🚨 **SafeHer** — Intelligent women safety alert platform
-- 🌐 Contributing to open source through **GSSoC 2026**
-
----
-
 # 💻 Tech Stack
 
 <div align="center">
@@ -79,9 +70,9 @@
 
 # 🚀 Featured Projects
 
-## 🤖 TechBot AI (Active Development)
+## 🤖 TechBot AI — Full Stack LLM Chat System
 
-AI chatbot platform built using **Flask + Ollama** with persistent memory, session handling, and ChatGPT-style UX.
+A ChatGPT-style AI assistant built with Flask and Ollama featuring persistent memory, session-based conversations, response streaming, and document-aware interactions.
 
 ### ⚡ Features
 - Multi-session conversations
@@ -98,6 +89,22 @@ AI chatbot platform built using **Flask + Ollama** with persistent memory, sessi
 
 ---
 
+## 🧠 Attention + Action Intelligence Engine (AAIE)
+
+An AI-powered productivity platform that analyzes notifications and communications to help users prioritize actions and reduce digital overload.
+
+### ⚡ Features
+- Chrome Extension integration
+- Gmail workflow intelligence
+- Action prioritization engine
+- Productivity analytics
+- Multi-platform notification processing
+
+### Tech Stack
+`React` `Node.js` `Chrome Extension` `API` `JavaScript`
+
+---
+
 ## 🚆 CommuteIQ (Hackathon Project)
 
 AI-powered commute assistant designed for smarter and safer travel experiences.
@@ -109,23 +116,9 @@ AI-powered commute assistant designed for smarter and safer travel experiences.
 - Dashboard-based UI
 
 ### 🛠 Stack
-`Python` `Frontend Dashboard` `AI APIs`
+`Python` `Frontend Dashboard` `AI` `APIs`
 
 🔗 Repo: https://github.com/shrutip04/commuteiq
-
----
-
-## 🛡️ AuthCraft (Learning + Building)
-
-Backend-focused security project exploring authentication systems and attack-aware protection mechanisms.
-
-### 📚 Exploring
-- JWT authentication
-- Password hashing
-- Brute-force protection
-- Secure backend architecture
-
-🚧 Currently in active learning & implementation phase
 
 ---
 
