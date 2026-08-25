@@ -137,20 +137,10 @@ AI-powered commute assistant designed for smarter and safer travel experiences.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=shrutip04&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+<img width="49%" src="./profile/stats.svg" />
 
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shrutip04&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img width="49%" src="./profile/top-langs.svg" />
 
-<br><br>
-
-<img width="80%" src="https://streak-stats.demolab.com?user=shrutip04&theme=tokyonight&hide_border=true" />
-
-<br><br>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shrutip04&theme=tokyo-night&hide_border=true" />
-
-<br><br>
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=shrutip04&theme=algolia&row=1&column=7" />
 </div>
 ---
 
