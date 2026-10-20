@@ -1,207 +1,206 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:6C63FF,100:8A2BE2&text=Shruti%20Pawar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Backend%20%7C%20Open%20Source&descAlignY=58" width="100%" />
+<img src="./Shruti%20Pawar%20Pixel%20Nightscape.png"
+     alt="Shruti Pawar — Midnight Pixel"
+     width="100%" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=26&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=Computer+Science+Student;AI+%2B+Backend+Developer;Building+Real-World+Systems;Open+Source+Contributor;Flask+%7C+LLMs+%7C+System+Design" />
+<br/>
 
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=600&size=20&duration=3000&pause=1000&color=F2B8D0&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;Backend+%26+Web+Developer;Building+things%2C+learning+always;Build.+Learn.+Repeat."
+     alt="Animated introduction" />
 
-<p align="center">
-  <a href="https://github.com/shrutip04">
-    <img src="https://img.shields.io/github/followers/shrutip04?label=Followers&logo=github&style=for-the-badge&color=8A2BE2" />
-  </a>
+<br/><br/>
 
-  <a href="https://github.com/shrutip04">
-    <img src="https://img.shields.io/github/stars/shrutip04?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=6C63FF" />
-  </a>
-
-  <img src="https://komarev.com/ghpvc/?username=shrutip04&style=for-the-badge&color=blueviolet" />
-
-</p>
+<a href="https://github.com/shrutip04">
+  <img src="https://img.shields.io/github/followers/shrutip04?label=followers&style=flat-square&color=222222&labelColor=000000&logo=github&logoColor=white" alt="GitHub followers" />
+</a>
+&nbsp;
+<a href="https://github.com/shrutip04?tab=repositories">
+  <img src="https://img.shields.io/badge/Repositories-explore-222222?style=flat-square&logo=github&logoColor=white" alt="Explore repositories" />
+</a>
 
 </div>
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284068-7b2d7b52-5d87-4b1a-bc1d-6c9bfa2f4c4f.gif" width="100%">
+## `$ whoami`
 
-# 💫 About Me
+Hi! I'm **Shruti Pawar**, a third-year Computer Engineering student at **Usha Mittal Institute of Technology, SNDT Women's University, Mumbai**.
 
-🎓 Computer Science student passionate about building **AI-powered systems, backend architectures, and real-world applications**
+- 💻 Interested in backend development, web applications, and software engineering.
+- ☕ I enjoy building practical projects and understanding how systems work behind the scenes.
+- 🧩 Exploring APIs, databases, application architecture, and AI-powered applications.
+- 🌱 Currently strengthening my Java, Spring Boot, React, and system design skills.
+- 🎀 Vice Chairperson of the **SNDT ACM-W Student Chapter (2026–27)**.
 
-🤖 I focus on creating **working end-to-end systems** using Flask, local LLMs, SQLite memory, and scalable backend design instead of only theory-based projects
-
-💡 I enjoy turning ideas into usable products with:
-- clean architecture
-- performance optimization
-- memory systems
-- modern UX
-- production-style thinking
+> `build()` → `learn()` → `improve()` → `repeat()`
 
 ---
 
-# 💻 Tech Stack
+## `$ tech-stack`
 
 <div align="center">
 
-## 👨‍💻 Languages
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,go" />
+**Languages**
 
-<br><br>
+<img src="https://skillicons.dev/icons?i=java,js,python,c,cpp" alt="Programming languages" />
 
-## ⚙️ Backend & Database
-<img src="https://skillicons.dev/icons?i=flask,nodejs,sqlite,mongodb" />
+<br/><br/>
 
-<br><br>
+**Frontend**
 
-## 🎨 Frontend
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,react" />
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind" alt="Frontend technologies" />
 
-<br><br>
+<br/><br/>
 
-## 🧰 Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
+**Backend & Databases**
+
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express,postgres,mysql,sqlite" alt="Backend and database technologies" />
+
+<br/><br/>
+
+**Developer Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Developer tools" />
 
 </div>
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284068-7b2d7b52-5d87-4b1a-bc1d-6c9bfa2f4c4f.gif" width="100%">
+## `$ ls ./projects`
 
-# 🚀 Featured Projects
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## 🤖 TechBot AI — Full Stack LLM Chat System
+### 🔔 Notiflow
 
-A ChatGPT-style AI assistant built with Flask and Ollama featuring persistent memory, session-based conversations, response streaming, and document-aware interactions.
+A notification-focused application with a Spring Boot backend.
 
-### ⚡ Features
-- Multi-session conversations
-- SQLite persistent memory
-- Streaming responses
-- RAG-ready architecture
-- Voice input/output planning
-- Optimized context management
+`Java` `Spring Boot`
 
-### 🛠 Stack
-`Flask` `Ollama` `SQLite` `JavaScript`
+[View Repository ↗](https://github.com/shrutip04/notiflow)
 
-🔗 Repo: https://github.com/shrutip04/FullStack-LLM-Chat-System
+</td>
+<td width="50%" valign="top">
 
----
+### 🔗 LinkVault
 
-## 🧠 Attention + Action Intelligence Engine (AAIE)
+A web application for organizing and managing useful links.
 
-An AI-powered productivity platform that analyzes notifications and communications to help users prioritize actions and reduce digital overload.
+`Web Development`
 
-### ⚡ Features
-- Chrome Extension integration
-- Gmail workflow intelligence
-- Action prioritization engine
-- Productivity analytics
-- Multi-platform notification processing
+[View Repository ↗](https://github.com/shrutip04/LinkVault)
 
-### Tech Stack
-`React` `Node.js` `Chrome Extension` `API` `JavaScript`
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
----
+### 🛡️ Password Security Analyzer
 
-## 🚆 CommuteIQ (Hackathon Project)
+A project focused on password strength and security feedback.
 
-AI-powered commute assistant designed for smarter and safer travel experiences.
+`Web Development` `Security`
 
-### ⚡ Features
-- Route planning
-- Cost comparison
-- Safety-focused recommendations
-- Dashboard-based UI
+[View Repository ↗](https://github.com/shrutip04/password-security-analyzer)
 
-### 🛠 Stack
-`Python` `Frontend Dashboard` `AI` `APIs`
+</td>
+<td width="50%" valign="top">
 
-🔗 Repo: https://github.com/shrutip04/commuteiq
+### 📚 ResearchSphere
 
----
+A research-paper discovery platform built around database design and paper exploration.
 
-<img src="https://user-images.githubusercontent.com/74038190/212284068-7b2d7b52-5d87-4b1a-bc1d-6c9bfa2f4c4f.gif" width="100%">
+`React` `Node.js` `Express` `PostgreSQL`
 
-# 🌟 Open Source
+[View Repository ↗](https://github.com/shrutip04/research-paper-repository)
 
-- 🌐 Contributor at **GirlScript Summer of Code 2026**
-- 🛠 Working on frontend improvements & bug fixes
-- 🤝 Exploring collaborative development workflows
-- 🚀 Learning large-scale project contribution practices
+</td>
+</tr>
+</table>
 
 ---
 
-# 📊 GitHub Analytics
+## `$ experience --list`
+
+**Full-stack Intern — Finabits Software Solutions**
+
+- Working with Spring Boot backend development and React frontend development.
+
+**Frontend Developer Intern — ANMA KIDS**
+
+- Built the organization's website using Framer.
+
+---
+
+## `$ community --leadership`
+
+**Vice Chairperson — SNDT ACM-W Student Chapter (2026–27)**
+
+- Supporting chapter activities, student engagement, and technical initiatives.
+
+**Creative Head — SNDT ACM-W Student Chapter (2025–26)**
+
+- Contributed to event creatives, social media content, and chapter communications.
+
+---
+
+## `$ open-source`
+
+- 🌐 Contributor at **GirlScript Summer of Code 2026**.
+- 🤝 Exploring collaborative development and open-source contribution workflows.
+- 🌱 Continuously learning through projects, experimentation, and collaboration.
+
+---
+
+## `$ github-analytics`
 
 <div align="center">
 
-<img width="49%" src="./profile/stats.svg" />
-
-<img width="49%" src="./profile/top-langs.svg" />
+<img width="49%" src="./profile/stats.svg" alt="GitHub statistics" />
+<img width="49%" src="./profile/top-langs.svg" alt="Most-used programming languages" />
 
 </div>
----
-
-<img src="https://user-images.githubusercontent.com/74038190/212284068-7b2d7b52-5d87-4b1a-bc1d-6c9bfa2f4c4f.gif" width="100%">
-
-# 🧠 Developer Terminal
-
-```bash
-> whoami
-Shruti Pawar
-
-> interests
-AI Systems | Backend Engineering | Open Source
-
-> currently_learning
-Authentication • System Design • LLM Applications
-
-> philosophy
-Build. Break. Improve. Repeat.
-```
 
 ---
 
-# 🕹 Contribution Snake
+## `$ contributions`
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shrutip04/shrutip04/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shrutip04/shrutip04/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/shrutip04/shrutip04/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/shrutip04/shrutip04/output/github-contribution-grid-snake.svg" width="100%">
 </picture>
 
 ---
 
-# 📫 Connect With Me
+## `$ connect`
 
 <div align="center">
-
-<a href="https://linkedin.com/in/shrutip04">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
 
 <a href="https://github.com/shrutip04">
-  <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
 </a>
-
+&nbsp;
+<a href="https://linkedin.com/in/shrutip04">
+  <img src="https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=9BCBEE" alt="LinkedIn" />
+</a>
+&nbsp;
 <a href="mailto:shruti.pawar412006@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail&logoColor=F2B8D0" alt="Email" />
 </a>
-
+&nbsp;
 <a href="https://instagram.com/shrutea_04">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <img src="https://img.shields.io/badge/Instagram-111111?style=flat-square&logo=instagram&logoColor=F2B8D0" alt="Instagram" />
 </a>
 
+<br/><br/>
+
+<code>thanks for stopping by &lt;3</code>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=14&duration=3500&pause=1200&color=9BCBEE&center=true&vCenter=true&width=300&lines=see+you+in+the+next+commit" alt="See you in the next commit" />
+
 </div>
-
----
-
-<div align="center">
-
-### 🌌 *"Building systems that feel real, useful, and impactful."*
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:6C63FF,100:8A2BE2" width="100%" />
